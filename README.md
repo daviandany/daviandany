@@ -25,7 +25,15 @@
   <a href="https://www.linkedin.com/in/davi-andany-1b7720319/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 
 </div>
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br>
+<h2>Skills</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
+<br>
+<h2>Studying</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,java,python,c++)](https://skillicons.dev)
