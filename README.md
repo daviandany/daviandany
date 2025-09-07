@@ -1,21 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Davi Andany</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
-- 📚 I’m currently learning ...
-<br>
-<br>
- - HTML5
-  <br>
-  - CSS3
-  <br>
-  - JavaScript
-  <br>
-  - JAVA
-  <br>
-  - PYTHON
-  <br>
-  <br>
-- 🚀 I’m eager to join new projects.
+<er>- 📚 I Currently studying at Senac (Systems Development)</er>
+<er>- 🚀 I’m eager to join new projects.</er>
 <br>
 - 📫 Reach out to me at: <a href="andanydavi2@gmail.com">andanydavi2@gmail.com</a>
 <br>
@@ -29,11 +16,31 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br>
-<h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+## 🧑‍💻 Skills
+<div align="center">
+  <table style="width:80%; border-collapse:collapse;">
+    <tr>
+      <td valign="top" style="border:1px solid gray; padding:20px; width:50%;">
+        <h3 align="center">Skills</h3>
+        <div align="center">
+        <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
+           <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
+           <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" height="50" /></a>
+           <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" height="50" /></a>
+        </div>
+      </td>
 
-<br>
-<h2>Studying</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=react,java,python,c++)](https://skillicons.dev)
+   <td valign="top" style="border:1px solid gray; padding:20px; width:50%;">
+       <h3 align="center">Studying</h3>
+        <div align="center">
+           <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="50" /></a>
+       <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
+           <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
+           <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=docker" height="50" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
