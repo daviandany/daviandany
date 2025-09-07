@@ -12,7 +12,7 @@
 <div align="center">
   <a href="mailto:andanydavi2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/davi-andany-1b7720319/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-
+<br>
 </div>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
