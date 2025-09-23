@@ -41,9 +41,11 @@
            <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="50" /></a>
        <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=java" height="50" /></a>
            <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
+            <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=cs" height="50" /></a>
            <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=docker" height="50" /></a>
-        </div>
-      </td>
-    </tr>
+
+
+        
+        
   </table>
 </div>
