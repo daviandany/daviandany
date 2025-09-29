@@ -20,7 +20,7 @@
 <div align ="center">
 <h3>🧑‍💻 Technologies</h3>
 </div>
-<br>
+
 <div align="center">
   <table style="width:80%; border-collapse:collapse;">
     <tr>
